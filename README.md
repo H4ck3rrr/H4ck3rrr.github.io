@@ -7,11 +7,11 @@ Hello! I'm a cybersecurity professional with extensive experience in SOC operati
 
 ## 📚 **Education**
 - **Master's in Networking, Security, and Computer Science**  
-  *Sorbonne University* | [Graduation Year]  
+  *Sorbonne University* | 2020  
   - Final project: Cisco Collaboration Solutions in collaboration with SFR Business.
 
 - **Master's in Telecommunications, Networking, and Multimedia**  
-  *USTHB* | [Graduation Year]  
+  *USTHB* | 2018  
   - Honors graduate.  
   - Final project: Development and testing of a web application solution (HBBTv) on the DVB system of the National Television company TDA.
 
@@ -36,12 +36,12 @@ Hello! I'm a cybersecurity professional with extensive experience in SOC operati
 - Delivered reliable solutions for incident management and IT system optimization.
 
 ### **Cyber SOC Analyst (Blue Team)**  
-*[Company Name]* | 2021 - 2022  
+*LVMH* | 2021 - 2022  
 - Monitored and responded to security incidents, reducing incident backlog by 75%.  
 - Collaborated with the LVMH SOC Team to ensure comprehensive threat mitigation.
 
 ### **Cloud Security Analyst**  
-*Accenture Clients* | 2023 - (3 months)  
+*Accenture* | 2023 - (3 months)  
 - Secured Azure environments by leveraging tools like Defender for Cloud Apps and Azure Sentinel.  
 - Implemented security configurations for Azure Firewall and enforced policy compliance.
 
