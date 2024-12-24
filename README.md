@@ -63,5 +63,5 @@ Hello! I'm a cybersecurity professional with extensive experience in SOC operati
 
 ## 📩 **Contact Me**
 - **Email**: l07f1@pm.me  
-- **LinkedIn**: https://www.linkedin.com/in/lotfi-hamed/ 
-- **GitHub**: https://github.com/H4ck3rrr
+- **LinkedIn**: [My_LinkedIn_Profile](https://www.linkedin.com/in/lotfi-hamed/) 
+- **GitHub**: [GH_Profile](https://github.com/H4ck3rrr)
