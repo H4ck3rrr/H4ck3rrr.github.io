@@ -1,27 +1,28 @@
-# Lotfi H.
+# L.
 
 ## 🌐 **About Me**
-Hello! I'm a cybersecurity professional with extensive experience in SOC operations, Blue Team strategies, cloud security, and IT consulting. I specialize in threat detection, incident response, and securing both IT and OT infrastructures. With a strong track record in delivering robust security solutions, I aim to protect critical assets and enhance organizations' security posture.
+Hello! I'm a cybersecurity professional with extensive experience in ICS/OT Engineering, Security Operations, cloud security, and IT consulting. I specialize in threat detection, incident response, and securing both IT and OT infrastructures. With a strong track record in delivering robust security solutions, I aim to protect critical assets and enhance organizations' security posture.
 
 ---
 
 ## 📚 **Education**
 - **Master's in Networking, Security, and Computer Science**  
-  *Sorbonne University* | 2020  
+  *SU* | 2020  
   - Final project: Cisco Collaboration Solutions in collaboration with SFR Business.
 
 - **Master's in Telecommunications, Networking, and Multimedia**  
-  *USTHB* | 2018  
+  *UHB* | 2018  
   - Honors graduate.  
-  - Final project: Development and testing of a web application solution (HBBTv) on the DVB system of the National Television company TDA.
+  - Final project: Development and testing of a web application solution (HBBTv) on the DVB system.
 
 ---
 
 ## 💼 **Professional Experience**
-### **Cyber Security Team Lead**  
-*Cybears* | 2024 – Present  
-- Built and led a cybersecurity team to secure client infrastructure.  
-- Enhanced SOC operations, threat monitoring, and incident response strategies.
+### **OT Cyber Security Engineer Lead**  
+*GE* | 2024 – Present  
+- Risk Assessment on High Voltage monitoring products and IED's
+- Use of standards such ISA 62443, IEC 61850, IEC 62351 for security compliance.
+- Perform Vulnerability scans and Penetration tests on ICS components.
 
 ### **Senior Cyber Security Consultant**  
 *Econocom* | 2023 - 2024  
@@ -35,16 +36,6 @@ Hello! I'm a cybersecurity professional with extensive experience in SOC operati
 - Ensured seamless operation across on-premises and cloud infrastructures.  
 - Delivered reliable solutions for incident management and IT system optimization.
 
-### **Cyber SOC Analyst (Blue Team)**  
-*LVMH* | 2021 - 2022  
-- Monitored and responded to security incidents, reducing incident backlog by 75%.  
-- Collaborated with the LVMH SOC Team to ensure comprehensive threat mitigation.
-
-### **Cloud Security Analyst**  
-*Accenture* | 2023 - (3 months)  
-- Secured Azure environments by leveraging tools like Defender for Cloud Apps and Azure Sentinel.  
-- Implemented security configurations for Azure Firewall and enforced policy compliance.
-
 ---
 
 ## 🛠 **Skills**
@@ -56,12 +47,11 @@ Hello! I'm a cybersecurity professional with extensive experience in SOC operati
 ---
 
 ## 🏆 **Certifications**
-- Certified Azure Security Engineer Associate (AZ-500) | 2023  
-- CEH, Cysa+, Security+, | 2022 - 2024 
+- Certified Azure Security Engineer Associate (AZ-500)
+- CEH, Cysa+, Security+
 
 ---
 
 ## 📩 **Contact Me**
-- **Email**: l07f1@pm.me  
-- [**My_LinkedIn_Profile**](https://www.linkedin.com/in/lotfi-hamed/) 
+- **Email**: l07f1@pm.me
 - [**GitHub_Profile**](https://github.com/H4ck3rrr)
